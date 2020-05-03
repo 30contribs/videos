@@ -15,6 +15,14 @@ O Zé deu a dica do arquivo .vscode/launch.json, e tem uma versão aqui que é s
 
 - https://gist.github.com/rogeriopradoj/3aa6b129a6a32c5787579bbb525fd5d4
 
+Outras URLs citadas:
+
+- https://xdebug.org/docs/install
+- https://xdebug.org/docs/remote#starting
+- https://phpsp.org.br/
+- https://bit.ly/vem-pro-slack-phpsp
+- https://github.com/Morkhusz
+
 Código no GitHub do 30contribs:
 
 - https://github.com/30contribs/videos
